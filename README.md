@@ -7,4 +7,4 @@ Here are some of the coolest projects I've been a part of:
 2. 👷 5th Semester Project - [Educado Project](https://github.com/Educado-App)
 3. 👩‍🏭 4th Semester Project - [C to Assembly Compiler Project](https://github.com/benceisonline/AAU-Project-4-2023)
 
-🌟 See more about projects on my super cool [Portfolio Website](https://bence-is-online.web.app/)
+🌟 See more about my work and projects on my super cool [Portfolio Website](https://bence-is-online.web.app/)
