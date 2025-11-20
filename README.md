@@ -1,4 +1,4 @@
-## Hi <3
+## Hi
 
 I am a software engineering student, currently pursuing my master's degree :)
 
