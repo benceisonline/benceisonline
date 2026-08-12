@@ -1,6 +1,6 @@
 ## Hi
 
-I am a software engineering student, currently pursuing my master's degree :)
+I am fulltime QA Engineer with a master's degree in Software :)
 
 Here are some of the coolest projects I've been a part of:
 1. 🧑‍🎓 ML Recommender System for Ekstra Bladet - [Ekstra Bladet Recommender Project](https://github.com/benceisonline/AAU-Project-6-Backend-2024)
